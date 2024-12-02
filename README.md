@@ -48,9 +48,14 @@ The final product, fabricated with precision machining, features:
 - **Compact Build**: Approximately 10 cm × 10 cm × 10 cm for portability.
   
 Images of the final assembly are shown below:
-![Front View](4.jpg){ width: 200px; }
-![Side View](5.jpg)
-![Components](6.jpg)
+<div align="center">
+    <img src="4.jpg" alt="Front View" width="400">
+    <p><strong>Front View</strong></p>
+    <img src="5.jpg" alt="Side View" width="400">
+    <p><strong>Side View</strong></p>
+    <img src="6.jpg" alt="Components" width="400">
+    <p><strong>Components</strong></p>
+</div>
 
 ---
 
