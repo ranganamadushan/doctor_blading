@@ -1,0 +1,7 @@
+NFC Chip - ST M24LR04E-R or ST 25DV-12 or ST 25DV04K
+Microcontroller - ATTiny 85 or ATTiny 84, or ATTiny 48
+Sensor - SHT 30 DIS B or LM75A
+Two 10kohm resistors.
+
+
+Accessing individual 75-micron diameter nozzles of a desktop inkjet printer to dispense picoliter droplets on demand
