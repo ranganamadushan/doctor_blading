@@ -49,8 +49,8 @@ The final product, fabricated with precision machining, features:
   
 Images of the final assembly are shown below:
 ![Front View](4.jpg)
-![Side View](images/side-view.png)
-![Components](images/components.png)
+![Side View](5.jpg)
+![Components](6.jpg)
 
 ---
 
